@@ -1,0 +1,290 @@
+
+*{
+	padding: 0;
+	margin: 0;
+	
+}
+body
+{
+	font-family: Arial, Helvetica, sans-serif;
+    font-size: 100%;
+   	width: 100%;
+    margin: 0 auto;
+    background-color: #edf0f5;
+}
+#banner{
+	width: 100%;
+	background-color: #3C5A99;
+	height: 80px;
+}
+header{
+	width: 980px;
+	margin-left: 184.5px;
+	margin-right: 184.5px;
+}
+main{
+	width: 980px;
+	margin-left: 184.5px;
+	margin-right: 184.5px;
+	clear: both;
+}
+footer{
+	margin-left: 184.5px;
+	margin-right: 184.5px;
+}
+section{
+	width: 580px;
+	float: left;
+}
+aside{
+	width: 400px;
+	float: right;
+}
+footer{
+	clear: both;
+}
+#header1{
+	float: left;
+	
+
+}
+#header1 h1{
+	font-family: inherit;
+	color: #ffffff;
+}
+#header2{	
+	float: right;
+	font-family: inherit;
+	font-size: 12px;
+	margin-top: 10px;
+	width: 417px;
+}
+#email{
+	height: 24px;
+	width: 140px;
+}
+#pass{
+	height: 24px;
+	width: 140px;
+}
+#login{
+	height: 24px;
+	width: 80px;
+}
+#div1{
+	margin-left: 14px;
+	padding-bottom: 4px;
+	color: white;
+}
+#textpass{
+	margin-left: 70px;
+}
+#login{
+	background-color: #5276ac;
+	color: #ffffff;
+	border: 1px solid  #5276ac;
+	box-shadow: 1px 1px .5px .5px black;
+}
+#div2 input{
+	margin-left: 14px;
+}
+#div3{
+	margin-left: 14px;
+	padding-top: 4px;
+	color: #8493b8;
+}
+#textforgot{
+	margin-left: 35px;
+}
+#div3 a{
+	text-decoration: none;
+	color: #8493b8;
+}
+#content1{
+	color: #372723;
+	font-size: 20px;
+	font-weight: bold;
+	line-height: 29px;
+	margin-top: 40px;
+	width: 450px;
+	word-spacing: 2px;
+}
+#hinh1{
+	margin-top: 40px;
+}
+#hinh2{
+	margin-top: 40px;
+}
+#hinh3{
+	margin-top: 40px;
+}
+#content2{
+	padding-top: 20px;
+	font-size: 36px;
+	font-family: inherit;
+	font-weight: 600;
+	color: #333;
+}
+#content3{
+	padding-bottom: 20px;
+	color: #1d2129;
+	font-size: 19px;
+	font-family: inherit;
+	font-weight: 0;
+	
+}
+#content4{
+	width: 399px;
+	padding-bottom: 20px;
+}
+#firstname{
+	border: 1px solid #5276ac;
+	width: 194px;
+	height: 39px;
+	text-indent: 10px;
+	border-radius: 5px;
+}
+#lastname{
+	border: 1px solid #5276ac;
+	width: 194px;
+	height: 39px;
+	text-indent: 10px;
+	border-radius: 5px;
+}
+#content_e{
+	border: 1px solid #5276ac;
+	width: 399px;
+	height: 39px;
+	text-indent: 10px;
+	margin-bottom: 20px;
+	border-radius: 5px;
+}
+#content_re{
+	border: 1px solid #5276ac;
+	width: 399px;
+	height: 39px;
+	text-indent: 10px;
+	margin-bottom: 20px;
+	border-radius: 5px;
+}
+#content_pw{
+	border: 1px solid #5276ac;
+	width: 399px;
+	height: 39px;
+	text-indent: 10px;
+	margin-bottom: 20px;
+	border-radius: 5px;
+}
+#footer{
+	clear: both;
+	height: 137px;
+	width: 100%;
+	background-color: #fff;
+}
+#footer2{
+	border-top: 1px solid black;
+	clear: both;
+}
+#footer1 ul li {
+	list-style-type: none;
+	float: left;
+	padding-right: 10px;
+}
+#footer1 ul li a{
+	display: block;
+	text-align: center;
+	padding: 1em 0;
+	text-decoration: none;
+	color: #365899;
+	font-size: 12px;
+
+}
+#footer2 ul li {
+	list-style-type: none;
+	float: left;
+	padding-right: 10px;
+
+}
+#footer2 ul li a{
+	display: block;
+	text-align: center;
+	padding: 1em 0;
+	text-decoration: none;
+	color: #365899;
+	font-size: 12px;
+
+}
+.content5{
+	color: #365899;
+	font-size: 11px;
+	text-decoration: none;
+	font-family: inherit;
+}
+#text1 p{
+	font-size: 11px;
+	font-family: inherit;
+}
+#text2 p{
+	font-size: 15px;
+	font-weight: bold;
+	font-family: inherit;
+}
+#text2 a{
+	text-decoration: none;	
+	color: #365899;
+}
+#text2{
+	padding-top: 20px;
+	margin-top: 20px;
+	padding-bottom: 20px;
+	border-top: 2px solid black;
+}
+#submit{
+	margin-top: 20px;
+	width: 194px;
+	height: 39px;
+	font-size: 19px;
+	background-color: #69a74e;
+	font-weight: bold;
+	box-shadow: inset 0 1px 1px #a4e388;
+	border-color: #3b6e22 #3b6e22 #2c5115;
+	border: 1px solid #3b6e22;
+	border-radius: 5px;
+	color: #fff;
+}
+#birthday{
+	margin-top: 10px;
+}
+#birthday p{
+	font-size: 20px;
+	margin-bottom: 10px;
+}
+#sex{
+	padding-top: 20px;
+	padding-bottom: 20px;
+	clear: both;
+}
+#sex input{
+	margin-left: 20px;
+	font-size: 30px;
+}
+
+#sex label{
+	margin-left: 5px;
+	font-size: 19px;
+	font-weight: 100;
+
+}
+#birthday1 select{
+	width: 69px;
+	height: 35px;
+	text-align: center;
+}
+#birthday1{
+	width: 221px;
+	float: left;
+}
+#birthday2{
+	width: 178px;
+	float: right;
+}
